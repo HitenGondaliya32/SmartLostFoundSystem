@@ -28,7 +28,7 @@ It provides a simple and secure way to manage lost and found records online.
 ## ⚙️ How to Run
 1.Download or clone this repository:
 
-      "git clone https://github.com/HitenGondaliya32/SmartLostFoundSystem.git"
+      https://github.com/HitenGondaliya32/SmartLostFoundSystem
    
 2.Open in NetBeans or Eclipse.
 
