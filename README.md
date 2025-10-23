@@ -26,14 +26,18 @@ It provides a simple and secure way to manage lost and found records online.
 ---
 
 ## ⚙️ How to Run
-1. Download or clone this repository:
+1.Download or clone this repository:
+
    "git clone https://github.com/HitenGondaliya32/SmartLostFoundSystem.git"
    
 2.Open in NetBeans or Eclipse.
 
 3.Create a MySQL database named lostfounddb.
+
     Import required tables:
+    
         users (for user info)
+        
         items (for lost/found items)
         
 4.Add the MySQL Connector JAR file to your project library.
