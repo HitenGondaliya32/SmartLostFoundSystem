@@ -30,12 +30,17 @@ It provides a simple and secure way to manage lost and found records online.
    "git clone https://github.com/HitenGondaliya32/SmartLostFoundSystem.git"
    
 2.Open in NetBeans or Eclipse.
+
 3.Create a MySQL database named lostfounddb.
     Import required tables:
         users (for user info)
         items (for lost/found items)
+        
 4.Add the MySQL Connector JAR file to your project library.
+
 5.Deploy the project on Apache Tomcat.
+
 6.Run the project and open in browser:
+
   http://localhost:8080/College_Lost_and_Found_Portal/register.jsp
   
