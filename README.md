@@ -34,11 +34,11 @@ It provides a simple and secure way to manage lost and found records online.
 
 3.Create a MySQL database named lostfounddb.
 
-Import required tables:
-    
-   users (for user info)
-           
-   items (for lost/found items)
+->Import required tables:
+
+->users (for user info)
+
+->items (for lost/found items)
         
 4.Add the MySQL Connector JAR file to your project library.
 
